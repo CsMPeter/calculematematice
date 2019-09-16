@@ -9,7 +9,18 @@ public class Calcul {
         return x+y;
     }
 
+
+    public double adunare(double x, double y){
+
+        return x+y;
+    }
+
     public int inmultire(int x, int y){
+
+        return x*y;
+    }
+
+    public double inmultire(double x, double y){
 
         return x*y;
     }
@@ -19,7 +30,18 @@ public class Calcul {
         return x/y;
     }
 
+    public double despartire(double x, double y){
+
+        return x/y;
+    }
+
+
     public int scadere(int x, int y){
+
+        return x-y;
+    }
+
+    public double scadere(double x, double y){
 
         return x-y;
     }

@@ -14,5 +14,9 @@ public class App
         System.out.println(calcul.inmultire(3,2));
         System.out.println(calcul.scadere(3,2));
         System.out.println(calcul.despartire(3,2));
+        System.out.println(calcul.adunare(3.2,4.5));
+        System.out.println(calcul.inmultire(3.2,4.5));
+        System.out.println(calcul.scadere(3.2,4.5));
+        System.out.println(calcul.despartire(3.2,4.5));
     }
 }
